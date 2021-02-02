@@ -1,0 +1,1 @@
+#A file for having the metadata from the 'freezedetect' filter
